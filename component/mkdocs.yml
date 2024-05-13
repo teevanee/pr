@@ -1,0 +1,4 @@
+site_name: TemplateSite
+plugins:
+  - techdocs-core
+  - drawio_file
